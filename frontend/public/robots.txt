@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rahlai.vercel.app/sitemap.xml
+
+# Disallow crawling of build files
+Disallow: /build/
+Disallow: /node_modules/
